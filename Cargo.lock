@@ -21,7 +21,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 [[package]]
 name = "cdrs"
 version = "2.0.0-beta.5"
-source = "git+https://github.com/AlexPikalov/cdrs?branch=fix/decimal-for-big-numbers#daeadf2fe6cd8aa2a97918144a3433f749c3e365"
+source = "git+https://github.com/AlexPikalov/cdrs?branch=fix/decimal-for-big-numbers#95598679e8df865c2c61e7b51e83f5e90022e4c4"
 dependencies = [
  "byteorder 1.2.7 (registry+https://github.com/rust-lang/crates.io-index)",
  "log 0.4.6 (registry+https://github.com/rust-lang/crates.io-index)",
